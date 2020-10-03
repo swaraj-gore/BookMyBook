@@ -3,14 +3,16 @@
 
 BookMyBook can be used to purchase **second hand** books. Specially when in college, purchasing new books in each semester is economically difficult for students. Thus **BookMyBook** can help in reducing the cost of books per semester.
 
-## Step 1 - Register
+## How does it works ? 
 
-![Registration](img/Register.png)
+Register | Login
+:--------|------:
+![Registration](img/Register.png)| ![Login](img/Login.png)
 
-## Step 2 - Login
+Upload a Book (User 1) | Home Screen
+:-------------|-----------:
+![Upload](img/Upload.png) | ![Home](img/Home.png)
 
-![Login](img/Login.png)
-
-## Step 3 - Upload a Book
-
-![Upload](img/Upload.png)
+Initiate Request(User 2) | Accept Request (User 1)
+:------------------------|-----------------------:
+![Initiate](img/Initiate.png) | ![Accept](img/Accept.png)
